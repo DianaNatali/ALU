@@ -1,0 +1,32 @@
+$date
+	Fri Apr 15 21:58:11 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module prueba_TB $end
+$scope module uut $end
+$var wire 1 ! input1_prueba $end
+$var wire 1 " input2_prueba $end
+$var wire 1 # output_prueba1 $end
+$var wire 1 $ output_prueba2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#2
+1$
+1!
+#4
+1#
+1"
+#100
